@@ -24,13 +24,13 @@ website:
 
   page-footer:
     center: |
-      © 2025 RSE Argentina | 
+      © 2025 RSE Argentina 
     background: light
 
 format:
   html:
     theme: 
-      light: united
+      light: default
       dark: default
     css: styles.css
     toc: true

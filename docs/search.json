@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "solucion-temas-css.html",
+    "href": "solucion-temas-css.html",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "Los temas de Bootstrap (como “united” y “darkly”) tienen sus propios colores y estilos que pueden sobrescribir tu CSS personalizado, especialmente los colores.\n\n\n\n\n\nHe cambiado tu configuración a:\nformat:\n  html:\n    theme: \n      light: default\n      dark: default\n    css: styles.css\nEl tema “default” es más neutral y permite que tus estilos personalizados tengan prioridad.\n\n\n\nSi aún tienes problemas, puedes usar _quarto-sin-temas.yml:\n\nRenombra el archivo:\nmv _quarto.yml _quarto-con-temas.yml\nmv _quarto-sin-temas.yml _quarto.yml\nEste archivo no usa temas de Bootstrap, solo tu CSS personalizado.\n\n\n\n\nSi prefieres mantener los temas, agrega este CSS al inicio de tu styles.css:\n/* Forzar colores de Bootstrap */\n[data-bs-theme=\"light\"] {\n  --bs-primary: #702552 !important;\n  --bs-secondary: #2c3e50 !important;\n  --bs-link-color: #702552 !important;\n  --bs-link-hover-color: #2c3e50 !important;\n  --bs-body-color: #212529 !important;\n}\n\n[data-bs-theme=\"dark\"] {\n  --bs-primary: #a87391 !important;\n  --bs-secondary: #9b5c7f !important;\n  --bs-link-color: #a87391 !important;\n  --bs-link-hover-color: #9b5c7f !important;\n}\n\n\n\n\n\nRenderiza el sitio:\nquarto preview\nVerifica estos elementos:\n\nEnlaces deben ser púrpura (#702552)\nBotones principales deben ser púrpura\nTítulos H1 deben tener borde púrpura\nNavbar brand debe ser púrpura\n\n\n\n\n\n\nLimpiar caché: A veces necesitas limpiar y reconstruir:\nquarto clean\nquarto preview\nForzar recarga en navegador: Ctrl+Shift+R (o Cmd+Shift+R en Mac)\nInspeccionar elementos: Usa las herramientas de desarrollo del navegador (F12) para ver qué estilos se están aplicando\n\n\n\n\nTu styles.css ahora incluye: - !important en reglas críticas - Selectores más específicos - Variables CSS con prioridad - Sobrescritura de clases de Bootstrap\n¡Esto debería resolver el problema de los temas sobrescribiendo tus colores personalizados!"
+  },
+  {
+    "objectID": "solucion-temas-css.html#el-problema",
+    "href": "solucion-temas-css.html#el-problema",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "Los temas de Bootstrap (como “united” y “darkly”) tienen sus propios colores y estilos que pueden sobrescribir tu CSS personalizado, especialmente los colores."
+  },
+  {
+    "objectID": "solucion-temas-css.html#soluciones-disponibles",
+    "href": "solucion-temas-css.html#soluciones-disponibles",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "He cambiado tu configuración a:\nformat:\n  html:\n    theme: \n      light: default\n      dark: default\n    css: styles.css\nEl tema “default” es más neutral y permite que tus estilos personalizados tengan prioridad.\n\n\n\nSi aún tienes problemas, puedes usar _quarto-sin-temas.yml:\n\nRenombra el archivo:\nmv _quarto.yml _quarto-con-temas.yml\nmv _quarto-sin-temas.yml _quarto.yml\nEste archivo no usa temas de Bootstrap, solo tu CSS personalizado.\n\n\n\n\nSi prefieres mantener los temas, agrega este CSS al inicio de tu styles.css:\n/* Forzar colores de Bootstrap */\n[data-bs-theme=\"light\"] {\n  --bs-primary: #702552 !important;\n  --bs-secondary: #2c3e50 !important;\n  --bs-link-color: #702552 !important;\n  --bs-link-hover-color: #2c3e50 !important;\n  --bs-body-color: #212529 !important;\n}\n\n[data-bs-theme=\"dark\"] {\n  --bs-primary: #a87391 !important;\n  --bs-secondary: #9b5c7f !important;\n  --bs-link-color: #a87391 !important;\n  --bs-link-hover-color: #9b5c7f !important;\n}"
+  },
+  {
+    "objectID": "solucion-temas-css.html#verificar-que-funciona",
+    "href": "solucion-temas-css.html#verificar-que-funciona",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "Renderiza el sitio:\nquarto preview\nVerifica estos elementos:\n\nEnlaces deben ser púrpura (#702552)\nBotones principales deben ser púrpura\nTítulos H1 deben tener borde púrpura\nNavbar brand debe ser púrpura"
+  },
+  {
+    "objectID": "solucion-temas-css.html#tips-adicionales",
+    "href": "solucion-temas-css.html#tips-adicionales",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "Limpiar caché: A veces necesitas limpiar y reconstruir:\nquarto clean\nquarto preview\nForzar recarga en navegador: Ctrl+Shift+R (o Cmd+Shift+R en Mac)\nInspeccionar elementos: Usa las herramientas de desarrollo del navegador (F12) para ver qué estilos se están aplicando"
+  },
+  {
+    "objectID": "solucion-temas-css.html#css-ya-actualizado",
+    "href": "solucion-temas-css.html#css-ya-actualizado",
+    "title": "Solución: Temas de Bootstrap sobrescribiendo CSS personalizado",
+    "section": "",
+    "text": "Tu styles.css ahora incluye: - !important en reglas críticas - Selectores más específicos - Variables CSS con prioridad - Sobrescritura de clases de Bootstrap\n¡Esto debería resolver el problema de los temas sobrescribiendo tus colores personalizados!"
+  },
+  {
+    "objectID": "quienes-somos.html",
+    "href": "quienes-somos.html",
+    "title": "Quiénes Somos",
+    "section": "",
+    "text": "RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol del software en la investigación.\n\n\n\n\nCo-coordinadora\nLicenciada en sistemas de Información recibida en la UNNE, actualmente cursando un máster en Tecnologías de la Información, con varios años de experiencia en distintos roles técnicos, helpdesk, analista funcional, diseño de base de datos y desarrolladora de software. Apasionada por el código reproducible y la ciencia abierta.\n\n📧 patricia.andrea.loto@gmail.com\n🔗 GitHub\n🔗 LinkedIn\n\n\n\n\nColaboradora\nSocióloga & Analista de Estadísticas de Población.\n\n📧 andrea.gomezv11@gmail.com\n🔗 [GitHub](https://github.com/SoyAndrea)\n🔗 LinkedIn\n\nRSE Argentina cuenta con una red de comunidades amigas:\n\nR en Buenos Aires\nRSE en Chile\nROpenSci\nR-Ladies Rcia-Ctes"
+  },
+  {
+    "objectID": "quienes-somos.html#coordinación",
+    "href": "quienes-somos.html#coordinación",
+    "title": "Quiénes Somos",
+    "section": "",
+    "text": "RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol del software en la investigación.\n\n\n\n\nCo-coordinadora\nLicenciada en sistemas de Información recibida en la UNNE, actualmente cursando un máster en Tecnologías de la Información, con varios años de experiencia en distintos roles técnicos, helpdesk, analista funcional, diseño de base de datos y desarrolladora de software. Apasionada por el código reproducible y la ciencia abierta.\n\n📧 patricia.andrea.loto@gmail.com\n🔗 GitHub\n🔗 LinkedIn\n\n\n\n\nColaboradora\nSocióloga & Analista de Estadísticas de Población.\n\n📧 andrea.gomezv11@gmail.com\n🔗 [GitHub](https://github.com/SoyAndrea)\n🔗 LinkedIn\n\nRSE Argentina cuenta con una red de comunidades amigas:\n\nR en Buenos Aires\nRSE en Chile\nROpenSci\nR-Ladies Rcia-Ctes"
+  },
+  {
+    "objectID": "quienes-somos.html#historia",
+    "href": "quienes-somos.html#historia",
+    "title": "Quiénes Somos",
+    "section": "Historia",
+    "text": "Historia\nLa idea de formar RSE Argentina surgió en 2025 durante la conferencia RSECON25 realizada en Warwick. Inspirados por iniciativas similares en otros países, y sabiendo que en nuestra región por el momento solo existe un grupo regional, decidimos crear un espacio para:\n\nCompartir experiencias y desafíos comunes\nPromover el reconocimiento del trabajo RSE\nEstablecer conexiones con la red internacional de RSE\n\n\nHitos importantes\n\nSeptiembre 2025: Ideas y sinergia para crear el grupo en Argentina\nOctubre 2025: Charla inicial para dar a conocer la RSE en nuestra región\nNoviembre 2025: Lanzamiento oficial del sitio web\nAbril - Julio 2026: Serie de Charlas sobre RSE"
+  },
+  {
+    "objectID": "quienes-somos.html#apoyos",
+    "href": "quienes-somos.html#apoyos",
+    "title": "Quiénes Somos",
+    "section": "Apoyos",
+    "text": "Apoyos\nAgradecemos el apoyo de:\n\nRSECON25: Por la inspiración y conectarnos con la comunidad global\nRSE Chile: Por su empuje y colaboración regional\nSSI: Por los recursos compartidos"
+  },
+  {
+    "objectID": "quienes-somos.html#gobernanza",
+    "href": "quienes-somos.html#gobernanza",
+    "title": "Quiénes Somos",
+    "section": "Gobernanza",
+    "text": "Gobernanza\nRSE Argentina funciona como una comunidad horizontal con decisiones tomadas por consenso. Nuestros principios son:\n\nInclusión: Todas las personas interesadas en la temática son bienvenidas sin importar su nivel o experiencia\nColaboración: Compartimos conocimientos abiertamente\nDiversidad: Valoramos diferentes perspectivas y experiencias"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Hay muchas formas de conectarte con nuestra comunidad."
+  },
+  {
+    "objectID": "contacto.html#conéctate-con-rse-argentina",
+    "href": "contacto.html#conéctate-con-rse-argentina",
+    "title": "Contacto",
+    "section": "",
+    "text": "Hay muchas formas de conectarte con nuestra comunidad."
+  },
+  {
+    "objectID": "contacto.html#contacto-directo",
+    "href": "contacto.html#contacto-directo",
+    "title": "Contacto",
+    "section": "📧 Contacto directo",
+    "text": "📧 Contacto directo\nPara consultas específicas, colaboraciones o propuestas:\nEmail general: rse.comunidad.argentina@gmail.com.ar"
+  },
+  {
+    "objectID": "contacto.html#redes-sociales",
+    "href": "contacto.html#redes-sociales",
+    "title": "Contacto",
+    "section": "🌐 Redes sociales",
+    "text": "🌐 Redes sociales\nSíguenos para estar al día con noticias y eventos:\n\nLinkedIn\nRSE Argentina"
+  },
+  {
+    "objectID": "contacto.html#encuentros-regionales",
+    "href": "contacto.html#encuentros-regionales",
+    "title": "Contacto",
+    "section": "📍 Encuentros regionales",
+    "text": "📍 Encuentros regionales\nSi querés organizar uno en tu ciudad, ¡contáctanos!"
+  },
+  {
+    "objectID": "contacto.html#colabora-con-nosotros",
+    "href": "contacto.html#colabora-con-nosotros",
+    "title": "Contacto",
+    "section": "🤝 Colabora con nosotros",
+    "text": "🤝 Colabora con nosotros\n\nFormas de colaborar:\n\nOrganizar eventos: Talleres, charlas, meetups\nCrear contenido: Tutoriales y blog posts\nMentoría: Apoyar a nuevos RSEs\nDifusión: Compartir nuestros eventos\n\n\n\n\n\n\n\n\n¿No sabés por dónde empezar?\n\n\n\n\n\n\nAsistí a nuestros próximos eventos [serie RSE]: PRÓXIMAMENTE\n¡Seguínos en redes!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Software Engineering en Argentina",
+    "section": "",
+    "text": "Research Software Engineering (RSE) es un campo emergente que reconoce la importancia fundamental del software en la investigación moderna. Los Research Software Engineers son profesionales que combinan conocimientos de desarrollo de software con comprensión profunda de la investigación académica.\n\n\nSi te identificas con alguna de estas actividades, probablemente eres un Research Software Engineer:\n\nDesarrollas o mantienes software utilizado en proyectos de investigación\nEscribes código para procesar, analizar o visualizar datos científicos\nImplementas algoritmos y modelos computacionales para investigación\nOptimizas código existente para mejorar su rendimiento\nDocumentas y haces más reproducible el software de investigación\nEnseñas buenas prácticas de programación a investigadores"
+  },
+  {
+    "objectID": "index.html#qué-es-research-software-engineering",
+    "href": "index.html#qué-es-research-software-engineering",
+    "title": "Research Software Engineering en Argentina",
+    "section": "",
+    "text": "Research Software Engineering (RSE) es un campo emergente que reconoce la importancia fundamental del software en la investigación moderna. Los Research Software Engineers son profesionales que combinan conocimientos de desarrollo de software con comprensión profunda de la investigación académica.\n\n\nSi te identificas con alguna de estas actividades, probablemente eres un Research Software Engineer:\n\nDesarrollas o mantienes software utilizado en proyectos de investigación\nEscribes código para procesar, analizar o visualizar datos científicos\nImplementas algoritmos y modelos computacionales para investigación\nOptimizas código existente para mejorar su rendimiento\nDocumentas y haces más reproducible el software de investigación\nEnseñas buenas prácticas de programación a investigadores"
+  },
+  {
+    "objectID": "index.html#por-qué-rse-argentina",
+    "href": "index.html#por-qué-rse-argentina",
+    "title": "Research Software Engineering en Argentina",
+    "section": "¿Por qué RSE Argentina?",
+    "text": "¿Por qué RSE Argentina?\nArgentina tiene una rica tradición en investigación científica y tecnológica, con instituciones de excelencia como CONICET, universidades nacionales y centros de investigación. Sin embargo, al igual que en otros países, el rol de quienes desarrollan software de investigación no siempre es reconocido adecuadamente.\n\nNuestra misión\nRSE Argentina surge para:\n\nVisibilizar el trabajo de quienes desarrollan software en el contexto de investigación\nConectar a profesionales que comparten desafíos similares\nPromover el reconocimiento institucional del rol RSE\nCompartir conocimientos y buenas prácticas\n\n\n\nEl contexto argentino\nEn Argentina, muchos investigadores, becarios doctorales, postdocs y personal de apoyo dedican gran parte de su tiempo al desarrollo de software, pero:\n\nEsta labor no siempre es valorada en las evaluaciones académicas\nFalta formación específica en desarrollo de software científico\nNo existe un camino claro de desarrollo profesional para RSEs\nEl conocimiento técnico se pierde cuando los investigadores cambian de proyecto"
+  },
+  {
+    "objectID": "index.html#únete-a-la-comunidad",
+    "href": "index.html#únete-a-la-comunidad",
+    "title": "Research Software Engineering en Argentina",
+    "section": "Únete a la comunidad",
+    "text": "Únete a la comunidad\nEstamos construyendo una comunidad inclusiva y colaborativa. No importa si:\n\nEres autodidacta o tienes formación formal en computación\nTrabajas en el sector público, privado o académico\nDesarrollas software complejo o scripts simples\nTienes años de experiencia o recién empiezas\n\n¡Todos los que contribuyen con software a la investigación son bienvenidos!\n\n\n\n\n\n\n¿Sabías que…?\n\n\n\nEl movimiento RSE comenzó en 2012 en Reino Unido y ahora hay grupos activos en más de 20 países, incluyendo Chile, en Latinoamérica."
+  },
+  {
+    "objectID": "index.html#próximos-pasos",
+    "href": "index.html#próximos-pasos",
+    "title": "Research Software Engineering en Argentina",
+    "section": "Próximos pasos",
+    "text": "Próximos pasos\n\nConoce al equipo que está impulsando esta iniciativa\nExplora recursos para mejorar tus habilidades\nContáctanos para involucrarte más activamente\nParticipa en nuestros eventos: próximamente tendremos más novedades"
+  },
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Recursos",
+    "section": "",
+    "text": "📚 Introducción a RSE - Software Sustainability Institute\n🎓 The Carpentries - Lecciones sobre herramientas fundamentales para investigación computacional\n📖 Good Enough Practices in Scientific Computing - Paper fundamental sobre buenas prácticas\n\n\n\n\n\n🐍 Scientific Python Tutorials - Tutoriales de Python para ciencia\n📊 R for Data Science - Libro online gratuito sobre R\n🔧 Research Software Engineering with Python - Curso completo del Alan Turing Institute\n📦 Reproducible Research in R - Paquetes de rOpenSci"
+  },
+  {
+    "objectID": "recursos.html#guías-y-tutoriales",
+    "href": "recursos.html#guías-y-tutoriales",
+    "title": "Recursos",
+    "section": "",
+    "text": "📚 Introducción a RSE - Software Sustainability Institute\n🎓 The Carpentries - Lecciones sobre herramientas fundamentales para investigación computacional\n📖 Good Enough Practices in Scientific Computing - Paper fundamental sobre buenas prácticas\n\n\n\n\n\n🐍 Scientific Python Tutorials - Tutoriales de Python para ciencia\n📊 R for Data Science - Libro online gratuito sobre R\n🔧 Research Software Engineering with Python - Curso completo del Alan Turing Institute\n📦 Reproducible Research in R - Paquetes de rOpenSci"
+  },
+  {
+    "objectID": "recursos.html#materiales-de-rse-argentina",
+    "href": "recursos.html#materiales-de-rse-argentina",
+    "title": "Recursos",
+    "section": "Materiales de RSE Argentina",
+    "text": "Materiales de RSE Argentina\n\nPresentaciones: ¡PROXIMAMENTE!"
+  },
+  {
+    "objectID": "recursos.html#contribuir-recursos",
+    "href": "recursos.html#contribuir-recursos",
+    "title": "Recursos",
+    "section": "Contribuir recursos",
+    "text": "Contribuir recursos\n¿Conoces algún recurso valioso que no está en la lista? ¡Ayúdanos a mejorar esta sección!\nSugerir un recurso"
+  }
+]
