@@ -4,13 +4,13 @@ title: "Quiénes Somos"
 
 ## Coordinación
 
-RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol del software en la investigación.
+RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol de las personas encargadas de desarrollar software de investigación.
 
 ### Equipo Voluntario
 
 #### Patricia A.Loto
 
-*Co-coordinadora*
+*Coordinadora*
 
 Licenciada en sistemas de Información recibida en la UNNE, actualmente cursando un máster en Tecnologías de la Información, con varios años de experiencia en distintos roles técnicos, helpdesk, analista funcional, diseño de base de datos y desarrolladora de software. Apasionada por el código reproducible y la ciencia abierta.
 
@@ -25,38 +25,36 @@ Licenciada en sistemas de Información recibida en la UNNE, actualmente cursando
 Socióloga & Analista de Estadísticas de Población.
 
 -   📧 andrea.gomezv11\@gmail.com
--   🔗 \[GitHub\](https://github.com/SoyAndrea)
+-   🔗 [GitHub](https://github.com/SoyAndrea)
 -   🔗 [LinkedIn](https://www.linkedin.com/in/andreasociologa/)
 
 RSE Argentina cuenta con una red de comunidades amigas:
 
 -   [**R en Buenos Aires**](https://github.com/renbaires)
 -   [**RSE en Chile**](https://rse-chile.github.io/)
--   [**ROpenSci**](https://github.com/ropensci)
 -   [**R-Ladies Rcia-Ctes**](https://github.com/RLadiesResistenciaCorrientes)
 
 ## Historia
 
-La idea de formar RSE Argentina surgió en 2025 durante la conferencia RSECON25 realizada en Warwick. Inspirados por iniciativas similares en otros países, y sabiendo que en nuestra región por el momento solo existe un grupo regional, decidimos crear un espacio para:
+La idea de formar la comunidad de RSE en Argentina surgió durante la conferencia de Software de Investigación, [RSECON25](https://rsecon25.society-rse.org/), realizada en Warwick en septiembre de 2025. Inspiradas por iniciativas similares en otros países, y sabiendo que en nuestra región por el momento solo existe un grupo regional, decidimos crear un espacio para:
 
 -   Compartir experiencias y desafíos comunes
--   Promover el reconocimiento del trabajo RSE
+-   Promover el reconocimiento del trabajo del sesarrollador de software científico
 -   Establecer conexiones con la red internacional de RSE
 
 ### Hitos importantes
 
 -   **Septiembre 2025**: Ideas y sinergia para crear el grupo en Argentina
--   **Octubre 2025**: Charla inicial para dar a conocer la RSE en nuestra región
--   **Noviembre 2025**: Lanzamiento oficial del sitio web
--   **Abril - Julio 2026**: Serie de Charlas sobre RSE
+-   **Octubre 2025**: Charla inicial organizada entre comunidades amigas para dar a conocer la RSE en nuestra región
+-   **Enero 2026**: Lanzamiento oficial del sitio web
+-   **Abril - Julio 2026**: Serie de Charlas sobre Software de Investigación
 
-## Apoyos
+## Agradecimientos
 
-Agradecemos el apoyo de:
+Agradecemos a:
 
 -   **RSECON25**: Por la inspiración y conectarnos con la comunidad global
 -   **RSE Chile**: Por su empuje y colaboración regional
--   **SSI**: Por los recursos compartidos
 
 ## Gobernanza
 
