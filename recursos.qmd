@@ -6,16 +6,16 @@ title: "Recursos"
 
 ### Para empezar
 
--   📚 [**Introducción a RSE**](https://www.software.ac.uk/guide/introduction-research-software-engineering) - Software Sustainability Institute
--   🎓 [**The Carpentries**](https://carpentries.org/) - Lecciones sobre herramientas fundamentales para investigación computacional
--   📖 [**Good Enough Practices in Scientific Computing**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) - Paper fundamental sobre buenas prácticas
+-   📚 [**A not-so-brief history of Research Software Engineers**](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0) - Una historia no tan breve de la ingeniería de software de investigación por el Software Sustainability Institute
+-   🎓 [**Good Enough Practices in Scientific Computing**](https://carpentries.org/) - Lección sobre buenas prácticas para computación científica por The Carpentries
+-   📖 [**Good enough practices in scientific computing**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) - Paper fundamental sobre buenas prácticas en computación científica
 
 ### Desarrollo de software científico
 
--   🐍 [**Scientific Python Tutorials**](https://learn.scientific-python.org/) - Tutoriales de Python para ciencia
--   📊 [**R for Data Science**](https://r4ds.had.co.nz/) - Libro online gratuito sobre R
--   🔧 [**Research Software Engineering with Python**](https://alan-turing-institute.github.io/rse-course/html/index.html) - Curso completo del Alan Turing Institute
--   📦 [**Reproducible Research in R**](https://ropensci.org/packages/) - Paquetes de rOpenSci
+-   🐍 [**Scientific Python Tutorials**](https://learn.scientific-python.org/) - Tutoriales de Python Científico
+-   📊 [**R for Data Science**](https://r4ds.had.co.nz/) - Libro sobre R para Ciencia de datos
+-   🔧 [**Research Software Engineering with Python**](https://alan-turing-institute.github.io/rse-course/html/index.html) - Curso completo de Ingeniería de Software de investigación con python por el Alan Turing Institute
+-   📦 [**Reproducible Research in R**](https://ropensci.org/packages/) - Investigación rerpoducible en R por rOpenSci
 
 
 ## Materiales de RSE Argentina
@@ -24,6 +24,4 @@ title: "Recursos"
 
 ## Contribuir recursos
 
-¿Conoces algún recurso valioso que no está en la lista? ¡Ayúdanos a mejorar esta sección!
-
-[Sugerir un recurso](https://github.com/rse-argentina/website/issues/new?template=resource.md)
+¿Conoces algún recurso valioso que no está en la lista? ¡Ayúdanos a mejorar esta sección abriendo un issue y sumando tu sugerencia!
