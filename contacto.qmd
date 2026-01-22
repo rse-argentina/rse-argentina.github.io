@@ -2,7 +2,7 @@
 title: "Contacto"
 ---
 
-## Conéctate con RSE Argentina
+## Conéctate con la comunidad RSE Argentina
 
 Hay muchas formas de conectarte con nuestra comunidad. 
 
@@ -14,15 +14,6 @@ Para consultas específicas, colaboraciones  o propuestas:
 **Email general**: rse.comunidad.argentina@gmail.com.ar
 
 
-## 🌐 Redes sociales
-
-Síguenos para estar al día con noticias y eventos:
-
-
-### LinkedIn
-[RSE Argentina](https://linkedin.com/company/rse-argentina)
-
-
 ## 📍 Encuentros regionales
 
 Si querés organizar uno en tu ciudad, ¡contáctanos!
@@ -32,10 +23,9 @@ Si querés organizar uno en tu ciudad, ¡contáctanos!
 
 ### Formas de colaborar:
 
-1. **Organizar eventos**: Talleres, charlas, meetups
+1. **Organizar eventos**: Talleres, charlas o meetups
 2. **Crear contenido**: Tutoriales y blog posts
-3. **Mentoría**: Apoyar a nuevos RSEs
-4. **Difusión**: Compartir nuestros eventos
+3. **Difusión**: Compartir nuestros eventos
 
 
 ---
@@ -46,6 +36,6 @@ Si querés organizar uno en tu ciudad, ¡contáctanos!
 <!-- 1. Únete a la [lista de correo](#lista-de-correo) -->
 <!-- 2. Preséntate en el canal #presentaciones de Slack -->
 
-1. Asistí a nuestros próximos eventos [serie RSE]: PRÓXIMAMENTE
-2. ¡Seguínos en redes!
+1. Asistí a nuestros próximos eventos online[serie de charlas sobre RSE en Argentina]: PRÓXIMAMENTE
+<!-- 2. ¡Seguínos en redes! -->
 :::
