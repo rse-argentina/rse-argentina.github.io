@@ -11,7 +11,7 @@ Hay muchas formas de conectarte con nuestra comunidad.
 
 Para consultas específicas, colaboraciones  o propuestas:
 
-**Email general**: rse.comunidad.argentina@gmail.com.ar
+**Email general**: rse.comunidad.argentina@gmail.com
 
 
 ## 📍 Encuentros regionales
@@ -39,3 +39,4 @@ Si querés organizar uno en tu ciudad, ¡contáctanos!
 1. Asistí a nuestros próximos eventos online[serie de charlas sobre RSE en Argentina]: PRÓXIMAMENTE
 <!-- 2. ¡Seguínos en redes! -->
 :::
+
