@@ -45,6 +45,28 @@ Socióloga & Analista de Estadísticas de Población. Especialista en el procesa
 
 ::::
 
+:::: {.columns}
+
+::: {.column width="45%"}
+
+::: hex-card
+
+#### Jesica Formoso
+
+**Colaboradora**
+
+Doctora en Ciencias Éticas, Humanísticas y Sociales Médicas (UBA) e Investigadora en psicología cognitiva en CONICET. Especialista en estadística aplicada a las ciencias de la salud (UBA). Promuevo activamente la ciencia abierta y el desarrollo de herramientas abiertas a través de mi participación en equipos de investigación y en comunidades de práctica.
+
+
+📧 jformoso\@conicet.gov.ar | [**GitHub**](https://github.com/JesiFormoso) | [**LinkedIn**](https://www.linkedin.com/in/jesica-formoso-16ab4649/)
+
+:::
+
+:::
+
+::::
+
+
 
 ## RSE Argentina cuenta con una red de comunidades amigas:
 
