@@ -5,9 +5,10 @@ project:
 website:
   title: "RSE Argentina"
   description: "Research Software Engineering en Argentina"
-  favicon: "images/favicon.ico"
+  favicon: image/rselogo.png 
   
   navbar:
+    logo: image/rselogo.png 
     background: primary
     right:
       - text: "Inicio"
@@ -28,14 +29,12 @@ website:
 
   page-footer:
     center: |
-      © 2025 RSE Argentina 
+      © 2025 RSE Argentina - Equipo organizador. Todos los derechos reservados.
     background: light
 
 format:
   html:
-    theme: 
-      light: default
-      dark: default
+    theme: cosmo
     css: styles.css
     toc: true
     toc-location: right

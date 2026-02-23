@@ -1,8 +1,16 @@
 ---
-title: "RSE Argentina | Ingeniería de Software de Investigación en Argentina"
+title: "RSE Argentina - Ingeniería de Software de Investigación en Argentina"
 subtitle: "Construyendo una comunidad para quienes desarrollan software de investigación"
 about:
   template: jolla
+  image: image/rselogo.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rse-argentina
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/rse-argentina/
 format:
   html:
     toc: FALSE 
