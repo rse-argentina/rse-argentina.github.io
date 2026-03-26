@@ -3,7 +3,7 @@ title: "RSE Argentina - Ingeniería de Software de Investigación en Argentina"
 subtitle: "Construyendo una comunidad para quienes desarrollan software de investigación"
 about:
   template: jolla
-  image: image/rselogo.png
+  image: image/rse_arg.png
   links:
     - icon: github
       text: Github

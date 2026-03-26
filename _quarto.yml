@@ -5,10 +5,10 @@ project:
 website:
   title: "RSE Argentina"
   description: "Research Software Engineering en Argentina"
-  favicon: image/rselogo.png 
+  favicon: image/rse_arg.png 
   
   navbar:
-    logo: image/rselogo.png 
+    logo: image/rse_arg.png 
     background: primary
     right:
       - text: "Inicio"
@@ -17,6 +17,8 @@ website:
         href: que-es-rse.qmd
       - text: "Quiénes Somos"
         href: quienes-somos.qmd
+      - text: "Código de Conducta"
+        href: coc.qmd       
       - text: "Actividades"
         href: actividades.qmd
       - text: "Recursos"
