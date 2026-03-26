@@ -1,6 +1,5 @@
 ---
 title: "Código de Conducta"
-author: "Equipo Organizador"
 ---
 
 Quienes organizamos RSE Argentina nos comprometemos a fomentar un ambiente abierto, seguro y amigable, y garantizar la participación de todas las personas en nuestra comunidad  (lo que incluye actividades tanto virtuales como presenciales: talleres, conversatorios, entre otros) independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas.
