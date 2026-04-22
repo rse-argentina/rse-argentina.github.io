@@ -5,9 +5,8 @@ title: "Quiénes Somos"
 
 ## Coordinación
 
-RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol de las personas encargadas de desarrollar software de investigación.
+RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarias comprometidas con visibilizar y fortalecer el rol de las personas encargadas de desarrollar software de investigación.
 
-### Equipo Voluntario
 
 :::: {.columns}
 
@@ -47,7 +46,11 @@ Socióloga & Analista de Estadísticas de Población. Especialista en el procesa
 
 :::: {.columns}
 
-::: {.column width="45%"}
+::: {.column width="27%"}
+
+:::
+
+::: {.column width="46%"}
 
 ::: hex-card
 
@@ -62,46 +65,14 @@ Doctora en Ciencias Éticas, Humanísticas y Sociales Médicas (UBA) e Investiga
 
 :::
 
+::: {.column width="27%"}
+
+:::
+
 :::
 
 ::::
 
-
-
-## RSE Argentina cuenta con una red de comunidades amigas:
-
-
--   [**R-Ladies Resistencia-Corrientes**](https://github.com/RLadiesResistenciaCorrientes)
-
--   [**R en Buenos Aires**](https://github.com/renbaires)
-
--   [**RSE en Chile**](https://rse-chile.github.io/)
-
-
-## Historia
-
-
-La idea de formar la comunidad de RSE en Argentina surgió durante la conferencia de Software de Investigación, [RSECon25](https://rsecon25.society-rse.org/), realizada en Warwick en septiembre de 2025. Inspiradas por iniciativas similares en otros países, y sabiendo que en nuestra región por el momento solo existe un grupo regional, decidimos crear un espacio para:
-
-
--   Compartir experiencias y desafíos comunes
--   Promover el reconocimiento del trabajo del sesarrollador de software científico
--   Establecer conexiones con la red internacional de RSE
-
-
-### Hitos importantes
-
--   **Septiembre 2025**: Ideas y sinergia para crear el grupo en Argentina
--   **Octubre 2025**: Charla inicial organizada entre comunidades amigas para dar a conocer la RSE en nuestra región
--   **Enero 2026**: Lanzamiento oficial del sitio web
--   **Abril - Julio 2026**: Serie de Charlas sobre Software de Investigación
-
-## Agradecimientos
-
-Agradecemos a:
-
--   **RSECon25**: Por la inspiración y conectarnos con la comunidad global
--   **RSE Chile**: Por su empuje y colaboración regional
 
 ## Gobernanza
 
@@ -110,3 +81,52 @@ RSE Argentina funciona como una comunidad horizontal con decisiones tomadas por 
 -   **Inclusión**: Todas las personas interesadas en la temática son bienvenidas sin importar su nivel o experiencia
 -   **Colaboración**: Compartimos conocimientos abiertamente
 -   **Diversidad**: Valoramos diferentes perspectivas y experiencias
+
+
+## Historia
+
+
+La idea de formar la comunidad de RSE en Argentina surgió durante la conferencia de Software de Investigación [RSECon25](https://rsecon25.society-rse.org/), realizada en Warwick en septiembre de 2025. Gracias a una beca para asistir, pudimos conocer de cerca la experiencia de la comunidad RSE a nivel internacional. Inspiradas por iniciativas similares en otros países, y considerando que en nuestra región solo existe actualmente un grupo, decidimos crear un espacio para:
+
+-   Compartir experiencias y desafíos comunes
+-   Promover el reconocimiento del trabajo del sesarrollador de software científico
+-   Establecer conexiones con la red internacional de RSE
+
+
+### Hitos importantes
+
+#### **Septiembre 2025**
+
+Ideas y sinergia para crear el grupo en Argentina después de participar en la RSECon25
+
+#### **Octubre 2025**
+
+**#IntlRSEday: celebramos el día internacional del software de investigación** - Charla inicial organizada entre RSE Chile, R en Buenos Aires, R-Ladies Resistencia-Corrientes y R-Ladies de Chile, comunidades amigas que se unieron para dar a conocer sobre RSE en nuestra región y en nuestro idioma.
+
+Este fue un primer encuentro abierto regional, un antecedente clave para lo que luego daría origen a la comunidad de RSE en Argentina. 
+
+<iframe src="https://www.youtube.com/embed/EYbg-Z0pgUs" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+#### **Enero 2026**
+
+Lanzamiento oficial de la comunidad de práctica y del sitio web
+
+
+#### **Abril - Julio 2026**
+
+Serie de Charlas sobre Software de Investigación
+
+
+## Red de comunidades amigas:
+
+-   [**RSE en Chile**](https://rse-chile.github.io/)
+
+-   [**R-Ladies Resistencia-Corrientes**](https://github.com/RLadiesResistenciaCorrientes)
+
+-   [**R en Buenos Aires**](https://github.com/renbaires)
+
+
+
+> Agradecemos a RSECon25 por la beca otorgada, que no solo permitió ampliar la diversidad de participantes, sino también dar origen a RSE Argentina, y a RSE Chile por su rol pionero en la región.
+
+

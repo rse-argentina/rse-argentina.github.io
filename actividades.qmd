@@ -1,9 +1,13 @@
 ---
-title: "Agenda 2026"
+title: "Encuentros RSE Argentina"
 ---
 
-## Próximamente
 
-Estamos trabajando en la agenda de actividades para este año. Nuestro objetivo es crear espacios de formación y encuentro para la comunidad de **RSE en Argentina**.
+## Agenda 2026
+
+> 👉 *Sumate a nuestros encuentros gratuitos desde [luma.com/RSE_Argentina](https://luma.com/user/RSE_Argentina) y sé parte de la comunidad* 
 
 
+| Fecha       | Encuentro                 | Expositora |  Materiales                       |
+|-------------|-----------------------------------------|----------------------|-----------------------------------------|
+| 2026-03-26  | Code Peer Review en la práctica: cómo revisamos código en proyectos abiertos |  [Yanina Bellini Saibene](https://github.com/yabellini) |  [Materiales](https://github.com/rse-argentina/2026-03-26-code-peer-review-en-la-practica) |

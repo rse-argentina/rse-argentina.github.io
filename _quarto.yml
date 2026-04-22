@@ -13,14 +13,14 @@ website:
     right:
       - text: "Inicio"
         href: index.qmd
+      - text: "Actividades"
+        href: actividades.qmd
       - text: "¿Qué es RSE?"
         href: que-es-rse.qmd
       - text: "Quiénes Somos"
         href: quienes-somos.qmd
       - text: "Código de Conducta"
         href: coc.qmd       
-      - text: "Actividades"
-        href: actividades.qmd
       - text: "Recursos"
         href: recursos.qmd
       - text: "Contacto"
