@@ -10,4 +10,4 @@ title: "Encuentros RSE Argentina"
 
 | Fecha       | Encuentro                 | Expositora |  Materiales                       |
 |-------------|-----------------------------------------|----------------------|-----------------------------------------|
-| 2026-03-26  | Code Peer Review en la práctica: cómo revisamos código en proyectos abiertos |  [Yanina Bellini Saibene](https://github.com/yabellini) |  [Materiales](https://github.com/rse-argentina/2026-03-26-code-peer-review-en-la-practica) |
+| 2026-03-26  | Code Peer Review en la práctica: cómo revisamos código en proyectos abiertos |  [Yanina Bellini Saibene](https://github.com/yabellini) |  [Grabación](https://youtu.be/FI9ZKQpk25M?si=ii--la_SZvuHqLX1) |
